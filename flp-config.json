@@ -1,0 +1,34 @@
+{
+    "application": {
+        "id": "",
+        "title": "Coxinha_Hana.CoxinhaHana.CoxinhaHana",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/",
+        "appUrl": "#CoxinhaHana-Display",
+        "navigationComponentName": "Coxinha_Hana.CoxinhaHana",
+        "intentSemanticObject": "CoxinhaHana",
+        "intentAction": "Display",
+        "html5ApplicationName": "coxinhahana",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "110b5ee8-720c-4250-ba91-aebdebddd36a"
+        ],
+        "contentPackages": [
+            "644f160b-ce00-4f0c-892a-ee830f5a0ce9"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "Coxinha",
+        "subtitle": "Hana",
+        "searchKeywords": "Coxinha,Hana",
+        "displayIconUrl": "sap-icon://text-align-justified",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}
